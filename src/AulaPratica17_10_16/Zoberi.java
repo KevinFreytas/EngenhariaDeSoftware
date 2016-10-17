@@ -3,11 +3,13 @@ package AulaPratica17_10_16;
 public class Zoberi {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
+		int a = 2;
 
 	}
 
 }
+
 // Passos para linkar com o GitHub:
 
 // Criar projeto > pacote > classe
